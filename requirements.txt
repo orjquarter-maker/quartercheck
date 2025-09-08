@@ -1,4 +1,4 @@
-talepler
-sahte
-sahte kullanıcı aracısı
+requests
+faker
+fake-useragent
 python-telegram-bot==20.3
